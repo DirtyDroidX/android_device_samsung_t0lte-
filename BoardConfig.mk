@@ -34,7 +34,7 @@ COMMON_GLOBAL_CFLAGS += -DCAMERA_WITH_CITYID_PARAM
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
-TARGET_KERNEL_CONFIG := cyanogenmod_t0lte_defconfig
+TARGET_KERNEL_CONFIG := soa_t0lte_defconfig
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := t0lte,SGH-I317,SGH-T889,SGH-I317M
